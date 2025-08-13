@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+class avgof3nums{
+
+	public static void main(String[]args)
+	{
+	Scanner input = new Scanner(System.in);
+			int R =input.nextInt();
+			int A = (3.14*(R*R));
+			Syestem.out.print(A);
+	}
+}	
